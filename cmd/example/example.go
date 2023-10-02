@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/khulnasoft-labs/hmap/store/hybrid"
+	"github.com/khulnasoft-lab/hmap/store/hybrid"
 )
 
 func main() {

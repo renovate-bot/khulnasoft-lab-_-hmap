@@ -10,7 +10,7 @@ import (
 
 	"github.com/bits-and-blooms/bloom/v3"
 	lru "github.com/hashicorp/golang-lru/v2"
-	fileutil "github.com/khulnasoft-labs/utils/file"
+	fileutil "github.com/khulnasoft-lab/utils/file"
 	"github.com/syndtr/goleveldb/leveldb"
 )
 

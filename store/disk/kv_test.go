@@ -6,9 +6,9 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/khulnasoft-labs/hmap/filekv"
-	fileutil "github.com/khulnasoft-labs/utils/file"
-	stringsutil "github.com/khulnasoft-labs/utils/strings"
+	"github.com/khulnasoft-lab/hmap/filekv"
+	fileutil "github.com/khulnasoft-lab/utils/file"
+	stringsutil "github.com/khulnasoft-lab/utils/strings"
 	"github.com/stretchr/testify/require"
 )
 

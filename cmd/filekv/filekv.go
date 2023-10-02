@@ -6,8 +6,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/khulnasoft-labs/hmap/filekv"
-	fileutil "github.com/khulnasoft-labs/utils/file"
+	"github.com/khulnasoft-lab/hmap/filekv"
+	fileutil "github.com/khulnasoft-lab/utils/file"
 )
 
 func main() {

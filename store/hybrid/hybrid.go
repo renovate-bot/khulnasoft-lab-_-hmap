@@ -6,10 +6,10 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/khulnasoft-labs/hmap/store/cache"
-	"github.com/khulnasoft-labs/hmap/store/disk"
-	fileutil "github.com/khulnasoft-labs/utils/file"
-	stringsutil "github.com/khulnasoft-labs/utils/strings"
+	"github.com/khulnasoft-lab/hmap/store/cache"
+	"github.com/khulnasoft-lab/hmap/store/disk"
+	fileutil "github.com/khulnasoft-lab/utils/file"
+	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )
 
 type MapType int
