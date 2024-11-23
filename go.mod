@@ -9,7 +9,7 @@ require (
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/pkg/errors v0.9.1
 	github.com/rs/xid v1.5.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/tidwall/buntdb v1.3.0
 	go.etcd.io/bbolt v1.3.9
