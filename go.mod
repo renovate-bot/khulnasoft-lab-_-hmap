@@ -3,7 +3,7 @@ module github.com/khulnasoft-lab/hmap
 go 1.18
 
 require (
-	github.com/akrylysov/pogreb v0.10.1
+	github.com/akrylysov/pogreb v0.10.2
 	github.com/bits-and-blooms/bloom/v3 v3.6.0
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/khulnasoft-lab/utils v0.0.47
